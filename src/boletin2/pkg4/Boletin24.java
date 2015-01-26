@@ -23,6 +23,9 @@ public class Boletin24 {
         System.out.println("La resta es: " + (num1 - num2));
         System.out.println("El producto es: " + (num1 * num2));
         System.out.println("El cociente es: " + (num1 / num2));
+        
+        
+        System.out.println("Commit 2");
     }
 
 }
